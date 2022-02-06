@@ -6,6 +6,6 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 ## Deployment
-Sample website with plenty of files for demos
+You should be a monkey to deploy it to prod
 
 ## How to contribute
